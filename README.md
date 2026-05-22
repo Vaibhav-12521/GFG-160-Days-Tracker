@@ -1,5 +1,5 @@
 # 🟩 GFG 160 Days Challenge Tracker
-           
+            
 This is a simple, interactive web app to help you track your progress in the **GeeksforGeeks 160 Days Coding Challenge**.    
 It’s built using **HTML, CSS, and JavaScript**, with **localStorage** support so your progress is saved in your browser — no backend needed.  
 
